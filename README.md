@@ -1,0 +1,2 @@
+# autoexec
+CSGO autoexec generator 
