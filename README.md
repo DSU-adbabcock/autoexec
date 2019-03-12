@@ -1,4 +1,4 @@
-# Lab04
+# Autoexec Gen
 
 ## What is an autoexec.cfg file?
 An autoexec.cfg file is basically file containing a bunch of console commands that will automatically run every time CSGO is launched. This is very useful because some of these settings won't persist after quitting from the game for whatever reason. It's a good way to set a lot of settings without dealing with the UI (also, with a lot of these you CAN'T use the UI), and it gives some peace of mind that they'll be correct every time you play.
